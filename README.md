@@ -43,7 +43,7 @@ The project is organized into the following main folders:
   - Description: Dataset used for customer segmentation analysis to identify distinct customer segments.
 
 
-## Tech Stack
+## Tech 
 
 This project is developed using the following technologies:
 
